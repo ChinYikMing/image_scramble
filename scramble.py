@@ -5,7 +5,6 @@ import getopt
 import sys
 import re
 import random
-import face_recognition
 from matplotlib import pyplot as plt
 from PIL import Image
 from image_slicer import slice, join 
